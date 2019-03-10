@@ -11,7 +11,7 @@
     <Button
         android:id="@+id/button"
         android:layout_width="170dp"
-        android:layout_height="123dp"
+        android:layout_height="44dp"
         android:text="Meu Consumo"
         tools:layout_editor_absoluteX="121dp"
         tools:layout_editor_absoluteY="134dp" />
@@ -19,7 +19,7 @@
     <Button
         android:id="@+id/button2"
         android:layout_width="170dp"
-        android:layout_height="124dp"
+        android:layout_height="44dp"
         android:text="Meus Dados"
         tools:layout_editor_absoluteX="121dp"
         tools:layout_editor_absoluteY="281dp" />
